@@ -1,5 +1,4 @@
 nltk
 pandas
 scikit-learn
-re
-
+jupyter 
