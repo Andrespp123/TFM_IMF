@@ -2,3 +2,5 @@ nltk
 pandas
 scikit-learn
 jupyter 
+google-cloud-bigquery
+pyarrow
